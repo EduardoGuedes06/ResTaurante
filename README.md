@@ -1,2 +1,2 @@
-# Respaurante 
+# ResTaurante 
 Exercicio realizado em aula
